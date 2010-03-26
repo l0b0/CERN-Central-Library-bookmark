@@ -317,6 +317,29 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       id="clipPath15694"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15696"
+         d="m 0,0 6120,0 0,4370 L 0,4370 0,0 z" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective15684"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       id="filter16131">
+      <feBlend
+         inkscape:collect="always"
+         mode="lighten"
+         in2="BackgroundImage"
+         id="feBlend16133" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:document-units="mm"
@@ -325,10 +348,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="104.25582"
-     inkscape:cy="537.16944"
-     inkscape:current-layer="layer2"
+     inkscape:zoom="1"
+     inkscape:cx="-105.03197"
+     inkscape:cy="343.36954"
+     inkscape:current-layer="layer3"
      id="namedview2828"
      showgrid="false"
      inkscape:window-width="1920"
@@ -372,7 +395,8 @@
      id="layer2"
      inkscape:label="Bookmark"
      style="display:inline"
-     transform="translate(0,6.6406251e-6)">
+     transform="translate(0,6.6406251e-6)"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot2995"
@@ -385,7 +409,7 @@
            x="11"
            y="47.094482" /></flowRegion><flowPara
          id="flowPara3001" /></flowRoot>    <flowRoot
-       style="font-size:31.94270756px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+       style="font-size:31.94270706px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"
        id="flowRoot2948-2"
        transform="matrix(0.8765694,0,0,0.8765694,11.236413,2.8627071)"><flowRegion
@@ -395,8 +419,8 @@
            x="0"
            height="210.75259"
            width="211.90425"
-           style="-inkscape-font-specification:Sans;font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:31.94270756px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
-         style="font-size:31.94270756px;-inkscape-font-specification:Sans;font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+           style="font-size:31.94270706px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         style="font-size:31.94270706px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
          id="flowPara2954-4">CERN Library</flowPara></flowRoot>    <flowRoot
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"
@@ -907,13 +931,13 @@
          x="58"
          y="233.59448" /></text>
     <text
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-decoration:underline;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-decoration: underline;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"
        id="text12009"
        y="161.66971"
        x="7.2498932"
        sodipodi:linespacing="150%"><tspan
-         style="fill:#0000cc;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="fill:#0000cc;fill-opacity:1;stroke:none"
          id="tspan12011"
          y="161.66971"
          x="7.2498932">library.cern.ch</tspan></text>
@@ -1026,7 +1050,7 @@
          style="fill:none;stroke:#000000;stroke-width:0.75031316;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          transform="matrix(0.47648054,0,0,0.47648054,-18.013406,176.51506)"
-         d="m 10.871767,27.626486 c 0,0.707825 -0.573806,1.281631 -1.2816314,1.281631 -0.7078253,0 -1.281631,-0.573806 -1.281631,-1.281631 0,-0.707825 0.5738057,-1.281631 1.281631,-1.281631 0.7078254,0 1.2816314,0.573806 1.2816314,1.281631 z"
+         d="m 10.871767,27.626486 a 1.281631,1.281631 0 1 1 -2.5632624,0 1.281631,1.281631 0 1 1 2.5632624,0 z"
          sodipodi:ry="1.281631"
          sodipodi:rx="1.281631"
          sodipodi:cy="27.626486"
@@ -1110,7 +1134,7 @@
          y="263.85126">CERN Document Server:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="133.3739"
        y="263.85126"
        id="text7066"
@@ -1121,7 +1145,7 @@
          y="263.85126">cds.cern.ch</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="43.383636"
        y="276.35126"
        id="text7070"
@@ -1133,7 +1157,7 @@
          style="fill:#0000cc;fill-opacity:1">cdsweb.cern.ch/cdslib/bor_loan</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="53.227386"
        y="288.85126"
        id="text7074"
@@ -1148,9 +1172,13 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Logo"
-     style="display:inline"
-     transform="translate(0,6.6406251e-6)"
-     sodipodi:insensitive="true" />
+     style="display:inline;filter:url(#filter16131)"
+     transform="translate(0,6.6406251e-6)">
+    <path
+       id="path15802"
+       style="fill:#3779c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 172.29919,336.1824 c -0.26247,-0.3929 -0.6559,-0.78792 -1.18136,-1.31181 l -9.57553,-9.57657 -0.26353,0 0,10.88838 c -0.12938,-0.13202 -0.39289,-0.13202 -0.52334,-0.13202 -0.26247,0 -0.52388,0 -0.65591,0.13202 l 0,-13.7734 0.78688,0 10.62591,10.36239 0.13098,0 0,-10.36239 c 0.26246,0 0.39343,0.13044 0.6559,0.13044 0.26194,0 0.39291,-0.13044 0.6559,-0.13044 l 0,13.7734 -0.6559,0 z m -19.93898,-7.60835 c 1.70523,-0.263 2.88554,-1.3118 2.88554,-2.88659 0,-1.31181 -0.78687,-2.22913 -2.4921,-2.49212 -0.78688,-0.13045 -3.27951,0 -4.19735,0 l 0,5.50968 c 0.39291,0 2.75457,0.13044 3.80391,-0.13097 z m 0,-6.16505 c 3.41047,0 4.98422,1.04933 4.98422,3.01756 0,2.3601 -2.36115,3.54145 -4.59026,3.80392 l 4.59026,5.24668 1.04934,1.17978 0.39448,0.52546 c -0.39448,-0.13255 -0.7874,-0.13255 -1.18136,-0.13255 -0.52493,0 -0.91889,0 -1.31128,0.13255 -0.52493,-0.6559 -0.91994,-1.18029 -1.44329,-1.83726 l -2.62414,-3.01651 -1.7047,-1.83727 -1.83674,0 0,6.69104 c -0.26089,-0.13202 -0.65537,-0.13202 -0.91837,-0.13202 -0.39343,0 -0.65537,0 -1.04828,0.13202 l 0,-13.7734 5.64012,0 z m -10.36398,6.03302 c 0.6559,0 1.31232,-0.13097 1.96771,-0.13097 0,0.13097 -0.13045,0.39344 -0.13045,0.52441 0,0.13255 0.13045,0.39502 0.13045,0.52546 -0.65539,0 -1.31181,-0.13044 -1.96771,-0.13044 l -4.45823,0 0,5.90205 c 1.31075,0 3.67294,0 4.98527,-0.13042 0.65431,0 1.44067,0 2.09709,-0.13204 0,0.26246 -0.13097,0.39291 -0.13097,0.6559 0,0.13045 0.13097,0.39343 0.13097,0.52388 l -9.0506,0 0,-13.64138 8.91963,0 c 0,0.26247 -0.1315,0.39344 -0.1315,0.6559 0,0.13097 0.1315,0.39344 0.1315,0.52388 -0.65538,0 -1.31181,-0.13044 -1.96612,-0.13044 l -2.23122,-0.13097 -2.75405,0 0,5.11465 4.45823,0 0,4.4e-4 z m -13.50988,7.87135 c -4.85432,0 -7.87082,-2.75404 -7.87082,-7.08289 0,-4.46035 3.67241,-7.08395 8.39469,-7.08395 1.57323,0 3.27898,0.39291 4.72333,0.91891 -0.13254,0.52387 -0.26405,1.04879 -0.39396,1.57321 l -0.13202,0 c -0.39343,-0.39344 -1.96824,-1.70577 -4.32885,-1.70577 -4.06584,0 -6.03408,3.01757 -6.03408,6.2976 0,3.93435 2.49318,6.29602 5.90311,6.29602 2.49158,0 4.32938,-1.18136 4.72175,-1.57479 l -0.12991,1.31179 c -1.31128,0.78688 -3.14906,1.04987 -4.85324,1.04987 z m 3.67241,3.54249 c 0,-0.39501 0,-0.78791 0,-1.18135 l -1.44225,0 c 0,0.39344 -0.13255,0.78634 -0.13255,1.18135 0,6.9514 1.70577,12.46108 5.37924,17.83873 l 2.49158,1.18242 c -4.32831,-5.5102 -6.29602,-11.41437 -6.29602,-19.02115 z m 32.13758,-33.71343 c -11.14979,0 -20.72584,5.24721 -26.75887,13.249 l 1.04934,1.18136 c 5.90258,-7.87081 15.21617,-12.85557 25.70953,-12.85557 3.28004,0 5.50968,0.13045 8.52673,1.18084 l 4.59183,1.70524 c 11.41227,4.19735 19.02009,16.26393 19.02009,29.25256 0,6.68894 -1.44278,11.67474 -4.85325,16.9209 l 0.39344,2.10025 c 3.40994,-4.46298 4.98474,-8.78972 5.77213,-14.69388 l 5.11572,-39.48241 -1.44382,0 -3.80392,30.0389 c -1.96718,-12.46317 -9.44456,-22.56258 -21.11875,-26.10403 l -6.03462,-1.83619 c -2.36166,-0.65697 -3.54145,-0.65697 -6.16558,-0.65697 z m -14.42931,-8.00178 c -17.5773,0 -31.74466,14.29886 -31.74466,31.87617 0,12.72407 7.08448,24.52923 18.23375,28.72765 l 2.75509,1.0488 c 3.41206,1.31232 6.95192,1.96823 10.75637,1.96823 17.57836,0 31.7452,-14.16737 31.7452,-31.74468 0,-8.00126 -2.49211,-14.56186 -7.34641,-20.07153 l 3.67346,1.70576 c 2.75511,3.80391 4.06692,7.21544 5.11625,11.9372 l 7.73826,33.58299 0.52547,2.75352 6.82148,29.64654 -1.8378,0 -5.90205,-26.76151 -0.91785,-3.01705 -6.03407,-26.235 c -0.7874,8.26531 -5.11677,15.2167 -10.36294,20.98831 l -15.60959,16.7894 -1.18084,1.31391 -15.74218,17.05185 -1.96663,0 15.60961,-16.92141 1.83726,-1.8362 11.01882,-11.93667 c -5.11624,3.01757 -10.88785,4.72175 -17.05344,4.72175 -2.88554,0 -4.85324,-0.13044 -7.47579,-0.91837 l -4.19893,-1.31181 c -7.08447,-2.23016 -12.33063,-6.68945 -16.26657,-12.59256 l 5.51074,20.20145 -1.96771,0 -7.73985,-28.85861 c -0.91731,-3.28056 -1.57321,-6.69104 -1.57321,-10.23196 0,-18.49568 14.95319,-33.58193 33.44992,-33.71238 l 0.13043,0 c 0,0 0,0 0.13203,0 l 60.47179,0 0,1.83621 -49.58656,0 c 5.77161,1.96771 9.83904,4.72227 13.77497,9.31359 l -3.67399,-1.04987 c -5.64066,-5.37764 -12.59362,-8.26372 -21.11983,-8.26372 z m 14.42931,75.42549 c 10.36398,0 18.75868,-3.67188 24.92373,-10.88627 l -0.52493,-1.8362 c -5.90311,7.34535 -14.16683,11.15032 -24.3988,11.15032 -2.36008,0 -3.41046,-0.13097 -5.50809,-0.526 l -1.44435,1.31234 c 2.62413,0.52387 4.1984,0.78581 6.95244,0.78581 z m -10.2309,-1.83515 1.04934,-1.1803 c -5.64064,-1.44278 -9.18209,-3.411 -13.11855,-7.34642 l -2.49159,-0.65537 c 4.19735,4.85325 8.13276,7.34588 14.5608,9.18209" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
