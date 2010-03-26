@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.47pre4 r22446"
    sodipodi:docname="CERN Library bookmark.svg"
-   enable-background="new">
+   style="enable-background:new">
   <defs
      id="defs2826">
     <marker
@@ -55,7 +55,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
      inkscape:cx="187.48173"
-     inkscape:cy="427.58453"
+     inkscape:cy="102.31541"
      inkscape:current-layer="layer3"
      id="namedview2828"
      showgrid="false"
@@ -91,7 +91,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -766,7 +766,7 @@
            sodipodi:cy="27.626486"
            sodipodi:rx="1.281631"
            sodipodi:ry="1.281631"
-           d="m 10.871767,27.626486 a 1.281631,1.281631 0 1 1 -2.5632624,0 1.281631,1.281631 0 1 1 2.5632624,0 z"
+           d="m 10.871767,27.626486 c 0,0.707825 -0.573806,1.281631 -1.2816314,1.281631 -0.7078253,0 -1.281631,-0.573806 -1.281631,-1.281631 0,-0.707825 0.5738057,-1.281631 1.281631,-1.281631 0.7078254,0 1.2816314,0.573806 1.2816314,1.281631 z"
            transform="matrix(0.47648054,0,0,0.47648054,-18.013406,176.51506)" />
         <path
            sodipodi:nodetypes="cc"
@@ -886,7 +886,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Logo"
-     style="display:inline;"
+     style="display:inline"
      transform="translate(0,6.6406251e-6)">
     <path
        id="path15802"
@@ -10529,7 +10529,7 @@
        style="fill:#d3d3d3;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
        id="path72402" />
     <path
-       d="m 0.3264975,476.85276 0.57193125,2.72516 0.0423225,0.35046 0.0886876,0 8.0414813,-1.71304 1.5388309,-0.30716 -0.6162746,-3.07612 -9.66691335,2.0207 z"
+       d="m 0.3264975,476.85276 0.57193125,2.72516 0.0423225,0.35046 0.0886876,0 8.0414813,-1.71304 1.5388309,-0.30716 -0.6162746,-3.07612 -9.66691305,2.0207 z"
        style="fill:#d3d3d3;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
        id="path72400" />
     <path
@@ -10706,7 +10706,8 @@
      id="layer6"
      inkscape:label="Labels"
      style="display:inline"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(0,6.6406251e-6)">
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
@@ -10922,7 +10923,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Library"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(0,6.6406251e-6)">
     <path
        d="m 100.12407,540.92521 7.34064,-4.57063 -0.17624,-1.01061 0.17624,0 3.55997,-2.32887 0.0866,0.0877 1.75736,-1.23066 0.0454,0.0886 1.75735,-1.05542 -0.0887,-0.0876 0.13294,0 0.83489,0.4834 5.18544,-3.25187 2.54791,4.3949 -0.87821,0.57102 0.21955,0.35147 -0.0887,0.0438 -0.17521,-0.30766 -2.6366,1.62593 0.17625,0.30766 -0.0887,0.0881 -0.21956,-0.35147 -2.63649,1.67025 0.21945,0.30715 -0.0877,0.0882 -0.21955,-0.30867 -2.59225,1.58313 0.17428,0.35097 -0.132,0.0443 -0.17521,-0.30817 -2.63546,1.67025 0.21852,0.30766 -0.0876,0.0438 -0.21853,-0.30717 -2.59421,1.62492 0.17624,0.30868 -0.132,0.0876 -0.17521,-0.35197 -5.9337,3.51572 -0.13087,-0.17523 0.52563,-0.35147 -0.70187,-1.05492 -0.48345,0.35198 -1.84697,-2.94471 z"
        style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
