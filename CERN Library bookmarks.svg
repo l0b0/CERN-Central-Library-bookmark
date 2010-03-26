@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -14,7 +15,7 @@
    id="svg6945"
    version="1.1"
    inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="bookmarks.svg">
+   sodipodi:docname="CERN Library bookmarks.svg">
   <defs
      id="defs3">
     <inkscape:perspective
@@ -11212,9 +11213,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-14.285714"
-     inkscape:cy="520"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="258.5234"
+     inkscape:cy="599.49959"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
@@ -11230,7 +11231,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -11241,7 +11242,13 @@
     <g
        transform="matrix(0,-1.25,-1.25,0,744.09449,210.47244)"
        inkscape:label="output"
-       id="g9922">
+       id="g9922"
+       inkscape:tile-cx="372.04725"
+       inkscape:tile-cy="105.23622"
+       inkscape:tile-w="744.09449"
+       inkscape:tile-h="210.47244"
+       inkscape:tile-x0="2.5e-06"
+       inkscape:tile-y0="2.5e-06">
       <g
          id="g9924" />
       <g
@@ -15181,5 +15188,39 @@
       <g
          id="g17994" />
     </g>
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g9922"
+       xlink:href="#g9922"
+       id="use6860" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g9922"
+       xlink:href="#g9922"
+       transform="translate(0,210.47244)"
+       id="use6862" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g9922"
+       xlink:href="#g9922"
+       transform="translate(0,420.94488)"
+       id="use6864" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g9922"
+       xlink:href="#g9922"
+       transform="translate(0,631.41731)"
+       id="use6866" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g9922"
+       xlink:href="#g9922"
+       transform="translate(0,841.88975)"
+       id="use6868" />
   </g>
 </svg>
