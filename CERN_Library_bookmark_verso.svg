@@ -78,51 +78,55 @@
      id="layer1"
      transform="translate(0,-308.26769)"
      style="filter:url(#filter3627)">
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="5.8436933"
-       y="740.22504"
-       id="text2825"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan2827"
-         x="5.8436933"
-         y="740.22504">Feedback</tspan></text>
     <g
-       id="g3639"
-       transform="translate(-3.478991,-6.5534855)">
+       id="g3719"
+       transform="matrix(1,0,0,1.0000031,0,-0.17957874)">
       <text
-         transform="translate(0,308.26769)"
          sodipodi:linespacing="100%"
-         id="text2829"
-         y="451.23734"
-         x="10.714286"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         id="text2825"
+         y="740.22504"
+         x="5.8436933"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
          xml:space="preserve"><tspan
-           id="tspan2833"
+           y="740.22504"
+           x="5.8436933"
+           id="tspan2827"
+           sodipodi:role="line">Feedback</tspan></text>
+      <g
+         transform="translate(-3.478991,-6.5534855)"
+         id="g3639">
+        <text
+           xml:space="preserve"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           x="10.714286"
            y="451.23734"
-           x="10.714286"
-           sodipodi:role="line">Help us improve the services or just</tspan><tspan
-           id="tspan3637"
-           y="460.23734"
-           x="10.714286"
-           sodipodi:role="line">lighten someone's day.</tspan><tspan
-           id="tspan2837"
-           y="469.23734"
-           x="10.714286"
-           sodipodi:role="line">You can find our answers at</tspan></text>
-      <text
-         sodipodi:linespacing="100%"
-         id="text2839"
-         y="786.505"
-         x="9.8485632"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           y="786.505"
+           id="text2829"
+           sodipodi:linespacing="100%"
+           transform="translate(0,308.26769)"><tspan
+             sodipodi:role="line"
+             x="10.714286"
+             y="451.23734"
+             id="tspan2833">Help us improve the services or just</tspan><tspan
+             sodipodi:role="line"
+             x="10.714286"
+             y="460.23734"
+             id="tspan3637">lighten someone's day.</tspan><tspan
+             sodipodi:role="line"
+             x="10.714286"
+             y="469.23734"
+             id="tspan2837">You can find our answers at</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
            x="9.8485632"
-           id="tspan2841"
-           sodipodi:role="line">library.cern.ch/feedback</tspan></text>
+           y="786.505"
+           id="text2839"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan2841"
+             x="9.8485632"
+             y="786.505">library.cern.ch/feedback</tspan></text>
+      </g>
     </g>
   </g>
   <g
