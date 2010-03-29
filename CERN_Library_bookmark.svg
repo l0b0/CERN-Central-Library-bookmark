@@ -15,7 +15,7 @@
    id="svg2824"
    version="1.1"
    inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="CERN Library bookmark.svg"
+   sodipodi:docname="CERN_Library_bookmark.svg"
    style="enable-background:new">
   <title
      id="title5455">CERN Library bookmark</title>
@@ -3603,19 +3603,6 @@
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath7366">
-      <rect
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
-         id="rect7368"
-         width="210.47244"
-         height="744.09448"
-         x="0"
-         y="-3.7578124e-05"
-         rx="79.347435"
-         ry="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
        id="clipPath7370">
       <rect
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
@@ -3713,16 +3700,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="123.66534"
-     inkscape:cy="70.74005"
-     inkscape:current-layer="layer8"
+     inkscape:zoom="16"
+     inkscape:cx="98.108497"
+     inkscape:cy="212.82023"
+     inkscape:current-layer="layer5"
      id="namedview2828"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1126"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-width="1280"
+     inkscape:window-height="1000"
+     inkscape:window-x="1920"
+     inkscape:window-y="176"
      inkscape:window-maximized="1"
      showguides="false"
      units="mm"
@@ -3732,7 +3719,8 @@
      inkscape:snap-bbox="false"
      showborder="true"
      inkscape:showpageshadow="false"
-     borderlayer="false">
+     borderlayer="false"
+     inkscape:snap-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid2925"
@@ -4469,7 +4457,7 @@
            sodipodi:cy="27.626486"
            sodipodi:rx="1.281631"
            sodipodi:ry="1.281631"
-           d="m 10.871767,27.626486 a 1.281631,1.281631 0 1 1 -2.5632624,0 1.281631,1.281631 0 1 1 2.5632624,0 z"
+           d="m 10.871767,27.626486 c 0,0.707825 -0.573806,1.281631 -1.2816314,1.281631 -0.7078253,0 -1.281631,-0.573806 -1.281631,-1.281631 0,-0.707825 0.5738057,-1.281631 1.281631,-1.281631 0.7078254,0 1.2816314,0.573806 1.2816314,1.281631 z"
            transform="matrix(0.47648054,0,0,0.47648054,-18.013406,176.51506)" />
         <path
            sodipodi:nodetypes="cc"
@@ -4514,8 +4502,7 @@
       </g>
     </g>
     <g
-       id="g16135"
-       clip-path="url(#clipPath7366)">
+       id="g6031">
       <text
          sodipodi:linespacing="150%"
          id="text7050"
@@ -4571,7 +4558,7 @@
            y="276.35126"
            x="43.383636"
            id="tspan7072"
-           sodipodi:role="line">cdsweb.cern.ch/cdslib/bor_loan</tspan></text>
+           sodipodi:role="line">library.cern.ch/loans</tspan></text>
       <text
          sodipodi:linespacing="150%"
          id="text7074"
@@ -4591,7 +4578,8 @@
      id="layer3"
      inkscape:label="Logo"
      style="display:inline"
-     transform="translate(0,-5.7812499e-6)">
+     transform="translate(0,-5.7812499e-6)"
+     sodipodi:insensitive="true">
     <path
        id="path15802"
        style="fill:#3779c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -14435,7 +14423,7 @@
        id="path72402"
        clip-path="url(#clipPath6554)" />
     <path
-       d="m 0.3264975,476.85276 0.57193125,2.72516 0.0423225,0.35046 0.0886876,0 8.0414813,-1.71304 1.5388309,-0.30716 -0.6162746,-3.07612 -9.66691235,2.0207 z"
+       d="m 0.3264975,476.85276 0.57193125,2.72516 0.0423225,0.35046 0.0886876,0 8.0414813,-1.71304 1.5388309,-0.30716 -0.6162746,-3.07612 -9.66691215,2.0207 z"
        style="fill:#d3d3d3;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
        id="path72400"
        clip-path="url(#clipPath6550)" />
@@ -14753,7 +14741,7 @@
        style="font-size:6px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        id="text5343"
        sodipodi:linespacing="125%"
-       transform="translate(107.60002,-4.0448461)"
+       transform="translate(110.00719,-5.2519529)"
        clip-path="url(#clipPath6350)"><textPath
          xlink:href="#path88347"
          id="textPath5347">Reception</textPath></text>
@@ -14829,8 +14817,8 @@
     <path
        id="path6138"
        style="fill:none;stroke:#0000ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 123.03377,529.57555 10.81046,17.58145 0,0.96875 -1.14067,0 9e-5,0.95317 -1.14076,0 1.8e-4,0.99998 -1.14057,0 -1e-5,1.23435 -1.14094,0 3.3e-4,5.02015 21.03125,3.10041 M 122.87499,554.407 c 0.125,0 6.34375,-1.59375 6.34375,-1.59375 m -0.71313,-94.37639 -5.78317,1.13832 0,1.18701 -1.18701,0 -0.001,1.18701 -7.33624,1.60313 4.5962,24.83713 19.18026,31.81981 -18.62687,11.68913"
-       sodipodi:nodetypes="ccccccccccccccccccccccc"
+       d="m 123.03377,529.57555 10.81046,17.58145 0,0.96875 -1.14067,0 9e-5,0.95317 -1.14076,0 1.8e-4,0.99998 -1.14057,0 -1e-5,1.23435 -1.14094,0 3.3e-4,5.02015 21.03125,3.10041 m -27.62243,-5.06156 c 0,0 6.55014,-1.40985 6.55014,-1.40985 m -1.25441,-96.5873 0.42448,1.89654 -5.68847,1.30354 0,1.18701 -1.18701,0 -0.001,1.18701 -7.33624,1.60313 4.5962,24.83713 19.18026,31.81981 -18.62687,11.68913"
+       sodipodi:nodetypes="cccccccccccccccccccccccc"
        clip-path="url(#clipPath6326)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:none;display:inline"
@@ -14895,7 +14883,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Library"
-     transform="translate(0,-5.7812499e-6)">
+     transform="translate(0,-5.7812499e-6)"
+     sodipodi:insensitive="true">
     <path
        d="m 100.12407,540.92521 7.34064,-4.57063 -0.17624,-1.01061 0.17624,0 3.55997,-2.32887 0.0866,0.0877 1.75736,-1.23066 0.0454,0.0886 1.75735,-1.05542 -0.0887,-0.0876 0.13294,0 0.83489,0.4834 5.18544,-3.25187 2.54791,4.3949 -0.87821,0.57102 0.21955,0.35147 -0.0887,0.0438 -0.17521,-0.30766 -2.6366,1.62593 0.17625,0.30766 -0.0887,0.0881 -0.21956,-0.35147 -2.63649,1.67025 0.21945,0.30715 -0.0877,0.0882 -0.21955,-0.30867 -2.59225,1.58313 0.17428,0.35097 -0.132,0.0443 -0.17521,-0.30817 -2.63546,1.67025 0.21852,0.30766 -0.0876,0.0438 -0.21853,-0.30717 -2.59421,1.62492 0.17624,0.30868 -0.132,0.0876 -0.17521,-0.35197 -5.9337,3.51572 -0.13087,-0.17523 0.52563,-0.35147 -0.70187,-1.05492 -0.48345,0.35198 -1.84697,-2.94471 z"
        style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -14917,5 +14906,6 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="Mask" />
+     inkscape:label="Mask"
+     sodipodi:insensitive="true" />
 </svg>
