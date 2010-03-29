@@ -3676,7 +3676,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="99.258219"
-     inkscape:cy="364.99486"
+     inkscape:cy="230.61664"
      inkscape:current-layer="layer6"
      id="namedview2828"
      showgrid="false"
@@ -4553,8 +4553,7 @@
      id="layer3"
      inkscape:label="Logo"
      style="display:inline"
-     transform="translate(0,-5.7812499e-6)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-5.7812499e-6)">
     <path
        id="path15802"
        style="fill:#3779c6;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -14781,7 +14780,8 @@
          id="textPath6923"><tspan
    id="tspan6918">Entrance A</tspan></textPath></text>
     <g
-       id="g13158">
+       id="g13158"
+       transform="translate(10.5,1.7325365)">
       <path
          sodipodi:nodetypes="cc"
          id="path10933"
