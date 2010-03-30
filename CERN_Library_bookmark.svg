@@ -22,19 +22,6 @@
   <defs
      id="defs2826">
     <marker
-       inkscape:stockid="Arrow1Lstart"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lstart"
-       style="overflow:visible">
-      <path
-         id="path87696"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         transform="matrix(0.8,0,0,0.8,10,0)" />
-    </marker>
-    <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
@@ -4431,7 +4418,7 @@
            sodipodi:cy="27.626486"
            sodipodi:rx="1.281631"
            sodipodi:ry="1.281631"
-           d="m 10.871767,27.626486 a 1.281631,1.281631 0 1 1 -2.5632624,0 1.281631,1.281631 0 1 1 2.5632624,0 z"
+           d="m 10.871767,27.626486 c 0,0.707825 -0.573806,1.281631 -1.2816314,1.281631 -0.7078253,0 -1.281631,-0.573806 -1.281631,-1.281631 0,-0.707825 0.5738057,-1.281631 1.281631,-1.281631 0.7078254,0 1.2816314,0.573806 1.2816314,1.281631 z"
            transform="matrix(0.47648054,0,0,0.47648054,-18.013406,176.51506)" />
         <path
            sodipodi:nodetypes="cc"
@@ -14658,12 +14645,18 @@
        x="24.511299"
        y="384.0058"
        id="text87689"
-       clip-path="url(#clipPath6370)"><tspan
+       clip-path="url(#clipPath6370)"
+       transform="translate(19.207107,-32.121318)"><tspan
          sodipodi:role="line"
          id="tspan87691"
          x="24.511299"
          y="384.0058"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans">P1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans">P1</tspan><tspan
+         sodipodi:role="line"
+         x="24.511299"
+         y="395.2558"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans"
+         id="tspan6987">ATLAS</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
@@ -14838,10 +14831,11 @@
        id="path88343"
        clip-path="url(#clipPath6314)" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);display:inline"
-       d="M 28.585154,385.82686 12.808057,431.9587 35.568279,543.67469 c 0.502855,2.35282 -0.70666,3.58807 -0.70666,3.58807"
+       style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;display:inline"
+       d="m 51.145814,376.03397 -21.095655,8.91427 -17.242102,47.01046 22.760222,111.71599 c 0.502855,2.35282 -0.70666,3.58807 -0.70666,3.58807"
        id="path88341"
-       clip-path="url(#clipPath6310)" />
+       clip-path="url(#clipPath6310)"
+       sodipodi:nodetypes="ccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 41.541443,557.50064 c 3.875,-1.375 4.919572,3.27388 12.238199,40.64823 1.024578,6.79375 -1.684592,17.9622 -0.893083,26.89823 0.695509,7.8522 4.927036,23.12989 4.927036,23.12989 1.279506,3.27165 5.744958,5.57834 7.588519,5.18994 l 56.170626,-11.86182 11.05114,-9.7403 c 2.39731,-11.61068 4.59227,-38.75412 6.8226,-57.34018 0.75,-6.25 -16.41481,-3.23093 -17.65991,-9.08883 l -2.49264,-11.72729 c -1.125,-6.25 -1.89865,-10.536 1.35013,-13.46136 l 65.10014,-44.46137 8.2221,-65.46695"
