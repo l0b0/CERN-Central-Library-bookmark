@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -3737,7 +3736,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2995"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana"
        transform="translate(0,-6.6406251e-6)"
        clip-path="url(#clipPath7394)"><flowRegion
          id="flowRegion2997"><rect
@@ -3747,7 +3746,7 @@
            x="11"
            y="47.094482" /></flowRegion><flowPara
          id="flowPara3001" /></flowRoot>    <flowRoot
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana"
        xml:space="preserve"
        id="flowRoot2995-9"
        transform="translate(-0.87800634,1.4593748e-6)"
@@ -3758,17 +3757,7 @@
            x="11"
            height="180"
            width="193" /></flowRegion><flowPara
-         id="flowPara3001-6" /></flowRoot>    <text
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"
-       id="text5357"
-       y="95.094513"
-       x="10.121993"
-       sodipodi:linespacing="150%"
-       clip-path="url(#clipPath7382)"><tspan
-         id="tspan5359"
-         y="95.094513"
-         x="10.121993" /></text>
+         id="flowPara3001-6" /></flowRoot>
     <g
        id="g7276"
        transform="translate(-1.7784187,80.000029)">
@@ -3779,25 +3768,12 @@
            y="62.773159"
            id="text5352-2"
            xml:space="preserve"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"><tspan
              x="7.6221118"
              y="62.773159"
              id="tspan5354-6">Due date:</tspan></text>
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Webdings;-inkscape-font-specification:Webdings"
-       x="58"
-       y="233.59448"
-       id="text5438"
-       sodipodi:linespacing="150%"
-       transform="translate(0,-6.6406251e-6)"
-       clip-path="url(#clipPath7374)"><tspan
-         sodipodi:role="line"
-         id="tspan5440"
-         x="58"
-         y="233.59448" /></text>
     <g
        id="g6941"
        transform="translate(0,1.140162)">
@@ -3807,7 +3783,7 @@
          y="161.66971"
          id="text12009"
          xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"><tspan
            x="6.6561933"
            y="161.66971"
            id="tspan12011"
@@ -3817,7 +3793,7 @@
          id="text6935"
          y="211.88083"
          x="6.6561933"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          xml:space="preserve"><tspan
            y="211.88083"
            x="6.6561933"
@@ -3832,7 +3808,7 @@
          id="text6944"
          y="199.38083"
          x="20.210831"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          xml:space="preserve"><tspan
            y="199.38083"
            x="20.210831"
@@ -3843,7 +3819,7 @@
          id="text6950"
          y="186.88083"
          x="20.210831"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          xml:space="preserve"><tspan
            y="186.88083"
            x="20.210831"
@@ -3854,7 +3830,7 @@
          id="text6956"
          y="174.38083"
          x="6.6561928"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          xml:space="preserve"><tspan
            y="174.38083"
            x="6.6561928"
@@ -3966,7 +3942,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="6.6561933"
        y="269.43951"
        id="text7062"
@@ -3985,7 +3961,7 @@
          id="tspan5935">INSPIRE:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="132.7802"
        y="269.43951"
        id="text7066"
@@ -3996,7 +3972,7 @@
          y="269.43951">cds.cern.ch</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="42.789936"
        y="281.93951"
        id="text7070"
@@ -4008,7 +3984,7 @@
          style="fill:#0000cc;fill-opacity:1">library.cern.ch/loans</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="52.633686"
        y="294.43951"
        id="text7074"
@@ -4792,7 +4768,7 @@
        y="520.97443"
        style="font-size:12.375px">
       <tspan
-         style="font-size:1.15210211px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:1.15210211px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="111.15565 111.9241 112.2444 113.0762 113.84465"
          y="520.97443"
          sodipodi:role="line"
@@ -4804,7 +4780,7 @@
        y="522.4679"
        style="font-size:12.375px">
       <tspan
-         style="font-size:1.15210211px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:1.15210211px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="111.15565 111.98045 112.8768 113.7086 114.41254 115.181 116.01279 116.78125 117.62317 118.45496"
          y="522.4679"
          sodipodi:role="line"
@@ -12625,7 +12601,7 @@
        y="492.5658"
        style="font-size:12.375px">
       <tspan
-         style="font-size:5.53035402px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Regu"
+         style="font-size:5.53035402px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Verdana;-inkscape-font-specification:NimbusSanL-Regu"
          x="-158.50848"
          y="492.5658"
          id="tspan83578">4</tspan>
@@ -12637,7 +12613,7 @@
        y="473.0199"
        style="font-size:12.375px">
       <tspan
-         style="font-size:5.53040648px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Regu"
+         style="font-size:5.53040648px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Verdana;-inkscape-font-specification:NimbusSanL-Regu"
          x="-190.63452 -187.55962"
          y="473.0199"
          sodipodi:role="line"
@@ -12650,7 +12626,7 @@
        y="492.61893"
        style="font-size:12.375px">
       <tspan
-         style="font-size:5.5304656px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Regu"
+         style="font-size:5.5304656px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Verdana;-inkscape-font-specification:NimbusSanL-Regu"
          x="-172.16158 -169.08661"
          y="492.61893"
          sodipodi:role="line"
@@ -12663,7 +12639,7 @@
        y="515.47906"
        style="font-size:12.375px">
       <tspan
-         style="font-size:5.53035402px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Regu"
+         style="font-size:5.53035402px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Verdana;-inkscape-font-specification:NimbusSanL-Regu"
          x="-169.71626 -166.64137"
          y="515.47906"
          sodipodi:role="line"
@@ -12676,7 +12652,7 @@
        y="515.71436"
        style="font-size:12.375px">
       <tspan
-         style="font-size:5.53035402px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Regu"
+         style="font-size:5.53035402px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Verdana;-inkscape-font-specification:NimbusSanL-Regu"
          x="-189.85333 -186.77847"
          y="515.71436"
          sodipodi:role="line"
@@ -12689,7 +12665,7 @@
        y="490.02753"
        style="font-size:12.375px">
       <tspan
-         style="font-size:5.53040648px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Regu"
+         style="font-size:5.53040648px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Verdana;-inkscape-font-specification:NimbusSanL-Regu"
          x="-185.76253"
          y="490.02753"
          id="tspan83740">3</tspan>
@@ -12701,7 +12677,7 @@
        y="497.2673"
        style="font-size:12.375px">
       <tspan
-         style="font-size:5.5304656px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Regu"
+         style="font-size:5.5304656px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Verdana;-inkscape-font-specification:NimbusSanL-Regu"
          x="-199.05205"
          y="497.2673"
          id="tspan83750">1</tspan>
@@ -12713,13 +12689,13 @@
        y="560.19434"
        style="font-size:12.375px">
       <tspan
-         style="font-size:5.5304656px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Regu"
+         style="font-size:5.5304656px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Verdana;-inkscape-font-specification:NimbusSanL-Regu"
          x="-172.99539 -169.92043"
          y="560.19434"
          sodipodi:role="line"
          id="tspan83870">50</tspan>
       <tspan
-         style="font-size:5.5304656px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Regu"
+         style="font-size:5.5304656px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Verdana;-inkscape-font-specification:NimbusSanL-Regu"
          x="-167.09941"
          y="560.19452"
          id="tspan83872">1</tspan>
@@ -12731,7 +12707,7 @@
        y="185.10379"
        style="font-size:12.375px">
       <tspan
-         style="font-size:5.53040648px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Regu"
+         style="font-size:5.53040648px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Verdana;-inkscape-font-specification:NimbusSanL-Regu"
          x="517.53674 520.61163"
          y="185.10379"
          sodipodi:role="line"
@@ -12744,13 +12720,13 @@
        y="554.3241"
        style="font-size:12.375px">
       <tspan
-         style="font-size:5.53065348px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Regu"
+         style="font-size:5.53065348px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Verdana;-inkscape-font-specification:NimbusSanL-Regu"
          x="134.85405 137.92906"
          y="554.3241"
          sodipodi:role="line"
          id="tspan85178">50</tspan>
       <tspan
-         style="font-size:5.53065348px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Regu"
+         style="font-size:5.53065348px;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Verdana;-inkscape-font-specification:NimbusSanL-Regu"
          x="141.00459"
          y="554.32458"
          id="tspan85180">0</tspan>
@@ -12762,13 +12738,13 @@
        y="-245.54919"
        style="font-size:12.37499905px">
       <tspan
-         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="455.46637 458.1282 460.58725"
          y="-245.54919"
          sodipodi:role="line"
          id="tspan86080">BEL</tspan>
       <tspan
-         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="462.83997"
          y="-245.5495"
          id="tspan86082">L</tspan>
@@ -12780,27 +12756,27 @@
        y="-245.66249"
        style="font-size:12.37499905px">
       <tspan
-         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="436.85913"
          y="-245.66249"
          id="tspan86530">R</tspan>
       <tspan
-         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="439.50607"
          y="-245.66269"
          id="tspan86532">o</tspan>
       <tspan
-         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="441.75894"
          y="-245.66299"
          id="tspan86534">u</tspan>
       <tspan
-         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="444.01144"
          y="-245.66219"
          id="tspan86536">t</tspan>
       <tspan
-         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68674874px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="445.22827"
          y="-245.66254"
          id="tspan86538">e</tspan>
@@ -12812,48 +12788,48 @@
        y="339.58713"
        style="font-size:12.375px">
       <tspan
-         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="-432.60489"
          y="339.58713"
          id="tspan86784">G</tspan>
       <tspan
-         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="-429.737"
          y="339.58682"
          id="tspan86786">R</tspan>
       <tspan
-         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="-427.07504"
          y="339.58734"
          id="tspan86788">E</tspan>
       <tspan
-         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="-424.61642 -423.59158"
          y="339.58673"
          sodipodi:role="line"
          id="tspan86790">IN</tspan>
       <tspan
-         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="-420.94852"
          y="339.58664"
          id="tspan86792">A</tspan>
       <tspan
-         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="-418.40833"
          y="339.58704"
          id="tspan86794">C</tspan>
       <tspan
-         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="-415.72852"
          y="339.58728"
          id="tspan86796">H</tspan>
       <tspan
-         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="-413.0668"
          y="339.58676"
          id="tspan86798">E</tspan>
       <tspan
-         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:NimbusSanL-Bold"
+         style="font-size:3.68647099px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          x="-410.60791"
          y="339.58704"
          id="tspan86800">R</tspan>
@@ -14105,7 +14081,7 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-size:9px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
        id="text76295"
        y="742.07678"
        x="-15.302423"
@@ -14116,12 +14092,7 @@
          id="tspan76297"
          x="-15.302423"
          y="742.07678"
-         style="font-size:9px">R2/Entrance E</tspan><tspan
-         sodipodi:role="line"
-         x="-15.302423"
-         y="753.32678"
-         style="font-size:9px"
-         id="tspan76299" /></text>
+         style="font-size:9px">R2/Entrance E</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:sans;-inkscape-font-specification:sans"
@@ -14136,7 +14107,7 @@
          style="font-size:9px;font-family:sans;-inkscape-font-specification:sans">Entrance C</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:9px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       style="font-size:9px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
        x="24.511299"
        y="384.0058"
        id="text87689"
@@ -14146,15 +14117,15 @@
          id="tspan87691"
          x="24.511299"
          y="384.0058"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans">P1</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana">P1</tspan><tspan
          sodipodi:role="line"
          x="24.511299"
          y="395.2558"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana"
          id="tspan6987">ATLAS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       style="font-size:6px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
        x="641.64221"
        y="-42.636944"
        id="text91758"
@@ -14167,7 +14138,7 @@
          style="font-size:6px">Hostel</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       style="font-size:6px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
        x="566.17163"
        y="-226.46242"
        id="text91758-5"
@@ -14180,31 +14151,7 @@
          style="font-size:6px">Hostel</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="36.499996"
-       y="368.09451"
-       id="text10402"
-       sodipodi:linespacing="125%"
-       clip-path="url(#clipPath6358)"><tspan
-         sodipodi:role="line"
-         id="tspan10404"
-         x="36.499996"
-         y="368.09451" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="48.499996"
-       y="369.09451"
-       id="text10410"
-       sodipodi:linespacing="125%"
-       clip-path="url(#clipPath6354)"><tspan
-         sodipodi:role="line"
-         id="tspan10412"
-         x="48.499996"
-         y="369.09451" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:6px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana"
        id="text5343"
        sodipodi:linespacing="125%"
        transform="translate(110.00719,-5.2519529)"
@@ -14249,7 +14196,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
        id="text6912"
        sodipodi:linespacing="150%"
        transform="translate(22.341883,4.7211941)"
@@ -14259,7 +14206,7 @@
    id="tspan6914">Entrance B</tspan></textPath></text>
     <text
        xml:space="preserve"
-       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
        id="text6916"
        sodipodi:linespacing="150%"
        transform="translate(140.11069,-20.23465)"
@@ -14281,9 +14228,9 @@
          id="text11679"
          y="307.54303"
          x="-130.10887"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          xml:space="preserve"><tspan
-           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
            y="307.54303"
            x="-130.10887"
            id="tspan11681"
@@ -14382,7 +14329,7 @@
        clip-path="url(#clipPath6278)" />
     <text
        xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
        id="text91714"
        y="512.14264"
        x="-195.09082"
