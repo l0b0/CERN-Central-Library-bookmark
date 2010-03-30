@@ -12125,43 +12125,39 @@
          x="10.179921"
          y="189.48495"
          id="tspan5960">Open 24/7</tspan><tspan
-         id="tspan5919"
-         sodipodi:role="line"
-         x="10.179921"
-         y="204.48495">Staffed 8:30-19:00 Monday-Friday</tspan><tspan
          id="tspan6234"
          sodipodi:role="line"
          x="10.179921"
-         y="219.48495" /><tspan
+         y="204.48495">Staffed 8:30-19:00 Monday-Friday</tspan><tspan
          sodipodi:role="line"
          x="10.179921"
-         y="234.48495"
+         y="219.48495"
          id="tspan5966" /><tspan
          sodipodi:role="line"
          x="10.179921"
-         y="249.48495"
+         y="234.48495"
          id="tspan5968" /><tspan
          sodipodi:role="line"
          x="10.179921"
-         y="264.48495"
+         y="249.48495"
          id="tspan5983">CERN Document Server: <tspan
    style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
    id="tspan6779">cds.cern.ch</tspan></tspan><tspan
          sodipodi:role="line"
          x="10.179921"
-         y="279.48495"
+         y="264.48495"
          id="tspan5977">Loans: <tspan
    style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
    id="tspan6781">library.cern.ch/loans</tspan></tspan><tspan
          sodipodi:role="line"
          x="10.179921"
-         y="294.48495"
+         y="279.48495"
          id="tspan5979">INSPIRE: <tspan
    style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
    id="tspan6783">inspire-hep.net</tspan></tspan></text>
     <g
        id="g5671"
-       transform="matrix(0.06281879,0,0,0.06281879,16.717162,144.40253)">
+       transform="matrix(0.04707957,0,0,0.04707957,17.708249,146.62781)">
       <path
          d="m -69.664413,118.72124 c -7.250901,0.81825 -33.622017,12.87111 -34.383047,75.02049 -0.81825,65.46875 27.132146,79.24141 34.447859,79.10368 l 0,-43.26236 c -6.019463,0.0101 -7.233304,-6.56013 -8.620065,-20.12429 -0.904083,-8.96159 -1.170171,-20.0653 0,-31.11001 0.835094,-7.73599 2.27654,-15.2951 8.587659,-15.29575 l -0.03241,-44.33176"
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -12177,7 +12173,7 @@
     </g>
     <g
        id="g6630"
-       transform="matrix(0.51447072,0,0,0.51447072,18.7667,75.600896)">
+       transform="matrix(0.38316087,0,0,0.38316087,16.62029,99.28281)">
       <rect
          ry="0.81551921"
          rx="0.81551945"
@@ -12186,12 +12182,12 @@
          height="3.0931184"
          width="18.31472"
          id="rect4652"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.68872863;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.924757;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          sodipodi:nodetypes="cssssssssssss"
          id="rect4609"
          d="m -14.615673,185.80644 16.0763196,0 c 0.1834669,0 0.4178891,0.13729 0.5624538,0.34493 0.1445652,0.20763 0.8273937,1.24362 0.9807871,1.46472 0.1533934,0.2211 0.1872325,0.43069 0.1872325,0.70333 l 0,5.75441 c 0,0.43529 -0.3487813,0.78574 -0.7820213,0.78574 l -17.9732237,0 c -0.43324,0 -0.782021,-0.35045 -0.782021,-0.78574 l 0,-5.75441 c 0,-0.23539 0.0482,-0.57293 0.212703,-0.78778 0.207578,-0.27112 0.76444,-1.21405 0.911321,-1.41401 0.14688,-0.19995 0.416595,-0.31119 0.606449,-0.31119 z"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.68872863;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible" />
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.924757;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible" />
       <path
          sodipodi:nodetypes="cssssssss"
          id="path4718"
@@ -12201,7 +12197,7 @@
          sodipodi:nodetypes="ccccccc"
          id="rect15391"
          d="m -12.44727,177.7052 11.73670149,0 c 0.30982337,0 0.55924854,0.24309 0.55924854,0.54505 l 0,8.91326 -12.85519903,0 0,-8.91326 c 0,-0.30196 0.249425,-0.54505 0.559249,-0.54505 z"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.68872863;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:block;overflow:visible" />
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.924757;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:block;overflow:visible" />
       <rect
          ry="0.81551945"
          rx="0.81551945"
@@ -12210,10 +12206,10 @@
          height="2.4717429"
          width="16.081219"
          id="rect4678"
-         style="fill:none;stroke:#000000;stroke-width:0.68872863;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#000000;stroke-width:0.924757;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          transform="matrix(0.47648054,0,0,0.47648054,-18.013406,176.51506)"
-         d="m 10.871767,27.626486 a 1.281631,1.281631 0 1 1 -2.5632624,0 1.281631,1.281631 0 1 1 2.5632624,0 z"
+         d="m 10.871767,27.626486 c 0,0.707825 -0.573806,1.281631 -1.2816314,1.281631 -0.7078253,0 -1.281631,-0.573806 -1.281631,-1.281631 0,-0.707825 0.5738057,-1.281631 1.281631,-1.281631 0.7078254,0 1.2816314,0.573806 1.2816314,1.281631 z"
          sodipodi:ry="1.281631"
          sodipodi:rx="1.281631"
          sodipodi:cy="27.626486"
@@ -12222,7 +12218,7 @@
          style="fill:#000000;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.68872863;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:0.924757;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 2.9812694,188.18884 -19.0689474,0"
          id="path4760"
          sodipodi:nodetypes="cc" />
