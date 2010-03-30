@@ -3813,27 +3813,20 @@
            id="tspan12011"
            style="fill:#0000cc;fill-opacity:1;stroke:none">library.cern.ch</tspan></text>
       <text
-         sodipodi:linespacing="150%"
-         id="text6926"
-         y="224.38083"
-         x="6.558537"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           y="224.38083"
-           x="6.558537"
-           id="tspan6928"
-           sodipodi:role="line">Staffed 8:30-19:00 Monday-Friday</tspan></text>
-      <text
-         sodipodi:linespacing="150%"
+         sodipodi:linespacing="125%"
          id="text6935"
          y="211.88083"
          x="6.6561933"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
          xml:space="preserve"><tspan
            y="211.88083"
            x="6.6561933"
            id="tspan6937"
-           sodipodi:role="line">Open 24/7</tspan></text>
+           sodipodi:role="line">Open 24/7</tspan><tspan
+           y="224.38083"
+           x="6.6561933"
+           sodipodi:role="line"
+           id="tspan5919">Staffed 8:30-19:00 Monday-Friday</tspan></text>
       <text
          sodipodi:linespacing="150%"
          id="text6944"
@@ -3927,7 +3920,7 @@
            sodipodi:cy="27.626486"
            sodipodi:rx="1.281631"
            sodipodi:ry="1.281631"
-           d="m 10.871767,27.626486 c 0,0.707825 -0.573806,1.281631 -1.2816314,1.281631 -0.7078253,0 -1.281631,-0.573806 -1.281631,-1.281631 0,-0.707825 0.5738057,-1.281631 1.281631,-1.281631 0.7078254,0 1.2816314,0.573806 1.2816314,1.281631 z"
+           d="m 10.871767,27.626486 a 1.281631,1.281631 0 1 1 -2.5632624,0 1.281631,1.281631 0 1 1 2.5632624,0 z"
            transform="matrix(0.47648054,0,0,0.47648054,-18.013406,176.51506)" />
         <path
            sodipodi:nodetypes="cc"
@@ -3971,81 +3964,63 @@
            y="182.91624" />
       </g>
     </g>
-    <g
-       id="g6031"
-       transform="translate(-0.59370009,5.588251)">
-      <text
-         sodipodi:linespacing="150%"
-         id="text7050"
-         y="288.85126"
-         x="6.8299713"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           y="288.85126"
-           x="6.8299713"
-           id="tspan7052"
-           sodipodi:role="line">INSPIRE:</tspan></text>
-      <text
-         sodipodi:linespacing="100%"
-         id="text7056"
-         y="276.35126"
-         x="6.8299713"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           y="276.35126"
-           x="6.8299713"
-           id="tspan7058"
-           sodipodi:role="line">Loans:</tspan></text>
-      <text
-         sodipodi:linespacing="150%"
-         id="text7062"
-         y="263.85126"
-         x="7.2498932"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           y="263.85126"
-           x="7.2498932"
-           id="tspan7064"
-           sodipodi:role="line">CERN Document Server:</tspan></text>
-      <text
-         sodipodi:linespacing="150%"
-         id="text7066"
-         y="263.85126"
-         x="133.3739"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           y="263.85126"
-           x="133.3739"
-           id="tspan7068"
-           sodipodi:role="line">cds.cern.ch</tspan></text>
-      <text
-         sodipodi:linespacing="150%"
-         id="text7070"
-         y="276.35126"
-         x="43.383636"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           style="fill:#0000cc;fill-opacity:1"
-           y="276.35126"
-           x="43.383636"
-           id="tspan7072"
-           sodipodi:role="line">library.cern.ch/loans</tspan></text>
-      <text
-         sodipodi:linespacing="150%"
-         id="text7074"
-         y="288.85126"
-         x="53.227386"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"><tspan
-           style="fill:#0000cc;fill-opacity:1"
-           y="288.85126"
-           x="53.227386"
-           id="tspan7076"
-           sodipodi:role="line">inspire-hep.net</tspan></text>
-    </g>
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="6.6561933"
+       y="269.43951"
+       id="text7062"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7064"
+         x="6.6561933"
+         y="269.43951">CERN Document Server:</tspan><tspan
+         sodipodi:role="line"
+         x="6.6561933"
+         y="281.93951"
+         id="tspan5933">Loans:</tspan><tspan
+         sodipodi:role="line"
+         x="6.6561933"
+         y="294.43951"
+         id="tspan5935">INSPIRE:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="132.7802"
+       y="269.43951"
+       id="text7066"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan7068"
+         x="132.7802"
+         y="269.43951">cds.cern.ch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="42.789936"
+       y="281.93951"
+       id="text7070"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan7072"
+         x="42.789936"
+         y="281.93951"
+         style="fill:#0000cc;fill-opacity:1">library.cern.ch/loans</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="52.633686"
+       y="294.43951"
+       id="text7074"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan7076"
+         x="52.633686"
+         y="294.43951"
+         style="fill:#0000cc;fill-opacity:1">inspire-hep.net</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="119.47488"
        y="54.705402"
        id="text6112"
