@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -36,7 +34,7 @@
          width="210.47244"
          height="744.09448"
          x="0"
-         y="-3.7578124e-05"
+         y="0"
          rx="79.347435"
          ry="0" />
     </clipPath>
@@ -86,7 +84,7 @@
          id="text2825"
          y="710.25452"
          x="5.8437023"
-         style="font-size:14.00002193px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:14.00002193px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
          xml:space="preserve"><tspan
            y="710.25452"
            x="5.8437023"
@@ -96,7 +94,7 @@
          id="g3313">
         <text
            xml:space="preserve"
-           style="font-size:9.00001431px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           style="font-size:9.00001431px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
            x="7.2353058"
            y="722.98102"
            id="text2829"
@@ -124,7 +122,7 @@
              id="tspan3417">and recycle the bookmark.</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:9.00001431px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           style="font-size:9.00001431px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#0000cc;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
            x="7.2045436"
            y="749.98108"
            id="text2839"
@@ -136,7 +134,7 @@
              y="749.98108">library.cern.ch/feedback</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
            x="7.2352948"
            y="767.98224"
            id="text3399"
