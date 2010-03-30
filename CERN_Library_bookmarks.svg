@@ -18,6 +18,19 @@
    sodipodi:docname="CERN_Library_bookmarks.svg">
   <defs
      id="defs6021">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path87699" />
+    </marker>
     <clipPath
        id="clipPath7394"
        clipPathUnits="userSpaceOnUse">
@@ -3572,19 +3585,6 @@
          id="rect6276"
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
     </clipPath>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lend"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend">
-      <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         id="path87699" />
-    </marker>
   </defs>
   <sodipodi:namedview
      inkscape:document-units="mm"
@@ -3593,9 +3593,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.43415836"
-     inkscape:cx="277.05024"
-     inkscape:cy="380"
+     inkscape:zoom="0.86831672"
+     inkscape:cx="527.98781"
+     inkscape:cy="356.8638"
      inkscape:current-layer="layer1"
      id="namedview6023"
      showgrid="false"
@@ -3621,14 +3621,26 @@
      id="layer1">
     <g
        style="enable-background:new"
-       id="g11850"
-       transform="translate(210.47244,-6.2778373)"
-       inkscape:tile-cx="105.23622"
-       inkscape:tile-cy="372.04724"
+       id="g27799"
+       transform="translate(0,-5.7816505e-6)"
+       inkscape:tile-cx="105.41339"
+       inkscape:tile-cy="372.22441"
        inkscape:tile-w="250.92025"
-       inkscape:tile-h="728.93817"
+       inkscape:tile-h="744.09448"
        inkscape:tile-x0="-34.170259"
-       inkscape:tile-y0="7.5781541">
+       inkscape:tile-y0="0.17716536">
+      <g
+         style="display:inline"
+         inkscape:label="Background"
+         id="layer8">
+        <rect
+           y="0.17717114"
+           x="0.17716536"
+           height="744.09448"
+           width="210.47244"
+           id="rect5446"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
       <g
          style="display:none"
          inkscape:label="Map"
@@ -11512,7 +11524,7 @@
            clip-path="url(#clipPath6550)"
            id="path72400"
            style="fill:#d3d3d3;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
-           d="m 0.3264975,476.85276 0.57193125,2.72516 0.0423225,0.35046 0.0886876,0 8.0414813,-1.71304 1.5388309,-0.30716 -0.6162746,-3.07612 -9.6669088,2.0207 z" />
+           d="m 0.3264975,476.85276 0.57193125,2.72516 0.0423225,0.35046 0.0886876,0 8.0414813,-1.71304 1.5388309,-0.30716 -0.6162746,-3.07612 -9.6669089,2.0207 z" />
         <path
            clip-path="url(#clipPath6546)"
            id="path72354"
@@ -11889,7 +11901,7 @@
       <g
          style="display:inline"
          inkscape:label="Roads"
-         id="layer1-7">
+         id="layer1-6">
         <path
            clip-path="url(#clipPath6330)"
            sodipodi:nodetypes="cc"
@@ -12226,37 +12238,37 @@
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#g11850"
-       xlink:href="#g11850"
-       id="use13914"
-       transform="translate(-210.47244,0)"
+       inkscape:tiled-clone-of="#g27799"
+       xlink:href="#g27799"
+       id="use29873"
+       transform="translate(210.38387,0)"
        width="1052.3622"
        height="744.09448" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#g11850"
-       xlink:href="#g11850"
-       transform="translate(210.47244,0)"
-       id="use13916"
+       inkscape:tiled-clone-of="#g27799"
+       xlink:href="#g27799"
+       transform="translate(420.76773,0)"
+       id="use29875"
        width="1052.3622"
        height="744.09448" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#g11850"
-       xlink:href="#g11850"
-       transform="translate(420.94492,0)"
-       id="use13918"
+       inkscape:tiled-clone-of="#g27799"
+       xlink:href="#g27799"
+       transform="translate(631.15158,0)"
+       id="use29877"
        width="1052.3622"
        height="744.09448" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#g11850"
-       xlink:href="#g11850"
-       transform="translate(631.41733,0)"
-       id="use13920"
+       inkscape:tiled-clone-of="#g27799"
+       xlink:href="#g27799"
+       transform="translate(841.53543,0)"
+       id="use29879"
        width="1052.3622"
        height="744.09448" />
   </g>
