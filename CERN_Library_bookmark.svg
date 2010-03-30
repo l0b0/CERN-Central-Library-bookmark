@@ -3676,6 +3676,20 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Background"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5446"
+       width="210.47244"
+       height="744.09448"
+       x="0.17716536"
+       y="0.17717114" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Map"
      style="display:none"
