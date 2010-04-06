@@ -82,64 +82,58 @@
      transform="translate(0,-308.26769)"
      style="display:inline"
      sodipodi:insensitive="true">
-    <g
-       id="g3323">
-      <text
-         transform="scale(0.99999849,1.0000015)"
-         sodipodi:linespacing="100%"
-         id="text2825"
-         y="710.25452"
+    <text
+       xml:space="preserve"
+       style="font-size:14.00002193px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="8.812747"
+       y="710.25452"
+       id="text2825"
+       sodipodi:linespacing="100%"
+       transform="scale(0.9999985,1.0000015)"><tspan
+         sodipodi:role="line"
+         id="tspan2827"
          x="8.812747"
-         style="font-size:14.00002193px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-         xml:space="preserve"><tspan
-           y="710.25452"
-           x="8.812747"
-           id="tspan2827"
-           sodipodi:role="line">Feedback</tspan></text>
-      <g
-         id="g3313">
-        <text
-           xml:space="preserve"
-           style="font-size:9.00001431px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-           x="9.7229052"
-           y="722.98102"
-           id="text2829"
-           sodipodi:linespacing="100%"
-           transform="scale(0.99999848,1.0000015)"><tspan
-             sodipodi:role="line"
-             x="9.7229052"
-             y="722.98102"
-             id="tspan3373">Help us and the environment when</tspan><tspan
-             sodipodi:role="line"
-             x="9.7229052"
-             y="731.98102"
-             id="tspan3381">returning your book - Share your thoughts</tspan><tspan
-             id="tspan3287"
-             sodipodi:role="line"
-             x="9.7229052"
-             y="740.98102">in the space below. We'll follow up at</tspan><tspan
-             sodipodi:role="line"
-             x="9.7229052"
-             y="749.98108"
-             id="tspan3415"
-             style="fill:#0000cc;fill-opacity:1">library.cern.ch/feedback</tspan><tspan
-             sodipodi:role="line"
-             x="9.7229052"
-             y="758.98108"
-             id="tspan3417">and recycle the bookmark.</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-           x="7.2352948"
-           y="767.98224"
-           id="text3399"
-           sodipodi:linespacing="100%"><tspan
-             sodipodi:role="line"
-             id="tspan3401"
-             x="7.2352948"
-             y="767.98224" /></text>
-      </g>
-    </g>
+         y="710.25452">Feedback</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.00001431px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="9.7229052"
+       y="722.98102"
+       id="text2829"
+       sodipodi:linespacing="100%"
+       transform="scale(0.9999985,1.0000015)"><tspan
+         sodipodi:role="line"
+         x="9.7229052"
+         y="722.98102"
+         id="tspan3373">Help us and the environment when</tspan><tspan
+         sodipodi:role="line"
+         x="9.7229052"
+         y="731.98102"
+         id="tspan3381">returning your book: share your thoughts</tspan><tspan
+         id="tspan3287"
+         sodipodi:role="line"
+         x="9.7229052"
+         y="740.98102">in the space below. We'll follow up at</tspan><tspan
+         sodipodi:role="line"
+         x="9.7229052"
+         y="749.98108"
+         id="tspan3415"
+         style="fill:#0000cc;fill-opacity:1">library.cern.ch/feedback</tspan><tspan
+         sodipodi:role="line"
+         x="9.7229052"
+         y="758.98108"
+         id="tspan3417">and recycle the bookmark.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="7.2352948"
+       y="767.98224"
+       id="text3399"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3401"
+         x="7.2352948"
+         y="767.98224" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
