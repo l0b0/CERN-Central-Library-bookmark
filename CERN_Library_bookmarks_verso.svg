@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,13 +68,14 @@
      id="layer1">
     <g
        style="enable-background:new"
-       id="g2922"
-       inkscape:tile-cx="105.41339"
-       inkscape:tile-cy="372.22441"
+       id="g3083"
+       transform="translate(-0.17716536,-0.17716536)"
+       inkscape:tile-cx="105.23622"
+       inkscape:tile-cy="372.04724"
        inkscape:tile-w="210.47244"
        inkscape:tile-h="744.09448"
-       inkscape:tile-x0="0.17716536"
-       inkscape:tile-y0="0.17716536">
+       inkscape:tile-x0="-7.4134826e-10"
+       inkscape:tile-y0="-7.4134826e-10">
       <g
          style="display:inline"
          inkscape:label="Background"
@@ -85,12 +86,12 @@
            height="744.09448"
            width="210.47244"
            id="rect5446"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new" />
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
       </g>
       <g
          style="display:inline"
          transform="translate(0,-308.26769)"
-         id="layer1-3"
+         id="layer1-8"
          inkscape:label="Feedback">
         <g
            id="g3323">
@@ -166,37 +167,37 @@
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#g2922"
-       xlink:href="#g2922"
-       id="use2987"
-       transform="translate(210.38387,0)"
+       inkscape:tiled-clone-of="#g3083"
+       xlink:href="#g3083"
+       id="use3102"
+       transform="translate(210.47244,0)"
        width="1052.3622"
        height="744.09448" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#g2922"
-       xlink:href="#g2922"
-       transform="translate(420.76773,0)"
-       id="use2989"
+       inkscape:tiled-clone-of="#g3083"
+       xlink:href="#g3083"
+       transform="translate(420.94489,0)"
+       id="use3104"
        width="1052.3622"
        height="744.09448" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#g2922"
-       xlink:href="#g2922"
-       transform="translate(631.15158,0)"
-       id="use2991"
+       inkscape:tiled-clone-of="#g3083"
+       xlink:href="#g3083"
+       transform="translate(631.41736,0)"
+       id="use3106"
        width="1052.3622"
        height="744.09448" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#g2922"
-       xlink:href="#g2922"
-       transform="translate(841.53543,0)"
-       id="use2993"
+       inkscape:tiled-clone-of="#g3083"
+       xlink:href="#g3083"
+       transform="translate(841.88977,0)"
+       id="use3108"
        width="1052.3622"
        height="744.09448" />
   </g>
