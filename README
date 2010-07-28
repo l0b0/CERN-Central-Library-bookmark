@@ -1,3 +1,6 @@
 Git repository: http://github.com/l0b0/CERN-Central-Library-bookmark
 Updates: http://l0b0.wordpress.com/2010/07/27/library-bookmark-redesign/
 Old home: https://twiki.cern.ch/twiki/bin/view/Library/Bookmark
+
+To convert to a nice PDF, run the following command:
+$ ./pdf.sh bookmark-recto.svg bookmark-verso.svg
