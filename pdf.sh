@@ -55,7 +55,7 @@ do
     inkscape --export-background=white --export-pdf=$pdf_file $file
 
     # Append copies of the PDF to make an A4 landscape page
-    convert -background none $pdf_file $pdf_file $pdf_file $pdf_file $pdf_file +append $a4_file
+    convert -density 1200 $pdf_file $pdf_file $pdf_file $pdf_file $pdf_file +append $a4_file
 done
 
 # Rotate and merge PDFs into a single document
