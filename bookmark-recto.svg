@@ -12,8 +12,6 @@
    height="744.09448"
    id="svg2824"
    version="1.1"
-   inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="CERN_Library_bookmark.svg"
    style="enable-background:new">
   <title
      id="title5455">CERN Library bookmark</title>
@@ -3592,18 +3590,12 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-63.438181"
      inkscape:cy="375.27251"
-     inkscape:current-layer="layer2"
      id="namedview2828"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="1000"
-     inkscape:window-x="1920"
-     inkscape:window-y="176"
      inkscape:window-maximized="1"
      showguides="false"
      units="mm"
@@ -3674,20 +3666,6 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer8"
-     inkscape:label="Background"
-     sodipodi:insensitive="true"
-     style="display:inline">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect5446"
-       width="210.47244"
-       height="744.09448"
-       x="0"
-       y="0" />
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"

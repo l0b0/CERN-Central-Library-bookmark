@@ -11,7 +11,6 @@
    height="744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47pre4 r22446"
    sodipodi:docname="bookmark-verso.svg"
    style="enable-background:new">
   <defs
@@ -35,19 +34,13 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="114.30515"
      inkscape:cy="590.83356"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1920"
-     inkscape:window-height="1126"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -61,21 +54,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="Background"
-     style="display:inline"
-     sodipodi:insensitive="true"
-     transform="translate(0,6.6406251e-6)">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
-       id="rect5446"
-       width="210.47244"
-       height="744.09448"
-       x="0"
-       y="0" />
-  </g>
   <g
      inkscape:label="Feedback"
      inkscape:groupmode="layer"
