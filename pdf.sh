@@ -23,10 +23,40 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 ################################################################################
+
+error()
+{
+    test -t 1 && {
+        tput setf 4
+        echo "$1" >&2
+        tput setf 7
+    } || echo "$1" >&2
+    if [ -z "$2" ]
+    then
+        exit $EX_UNKNOWN
+    else
+        exit $2
+    fi
+}
+
+usage()
+{
+    error "Usage: ${cmdname} recto.svg verso.svg" $EX_USAGE
+}
+
+PATH='/usr/bin:/bin'
+cmdname=$(basename $0)
+
+# Exit codes from /usr/include/sysexits.h, as recommended by
+# http://www.faqs.org/docs/abs/HTML/exitcodes.html
+EX_USAGE=64       # command line usage error
+
+# Custom errors
+EX_UNKNOWN=1
+
 if [ -z "$2" ]
 then
-    echo "Syntax: ./pdf.sh recto.svg verso.svg"
-    exit 1
+    usage
 fi
 
 recto=$1
@@ -34,7 +64,7 @@ verso=$2
 files=( $recto $verso )
 
 cmdname=$(basename $0)
-temp_dir=$(mktemp -t -d ${cmdname}.XXXXXXXXXX) || exit 1
+temp_dir=$(mktemp -t -d ${cmdname}.XXXXXXXXXX) || error 'Could not create temporary directory'
 
 for index in $(seq 0 $((${#files[@]} - 1)))
 do
@@ -44,19 +74,21 @@ do
     name=$(basename $file)
     name=${name%.*}
 
-    # Get name of PDF file for a single bookmark
-    pdf_file=$temp_dir/$name.pdf
+    pdf_file=$temp_dir/${name}.pdf
+    inkscape --export-pdf=$pdf_file $file \
+        || error 'Could not convert SVG to PDF' $?
 
-    # Get name of A4 PDF file
-    a4_file=$temp_dir/$name-a4.pdf
-    a4_files[$index]=$a4_file
+    pdf_multipage=$temp_dir/${name}-multipage.pdf
+    pdftk $pdf_file $pdf_file $pdf_file $pdf_file $pdf_file cat output $pdf_multipage \
+        || error 'Could not concatenate PDFs' $?
+    
+    pdf_a4=$temp_dir/${name}-a4.pdf
+    pdfnup $pdf_multipage --nup 5x1 --paper a4paper --orient landscape --outfile $pdf_a4 \
+        || error 'Could not merge PDF files into a single A4 page' $?
 
-    # Convert SVG to PDF
-    inkscape --export-background=white --export-pdf=$pdf_file $file
-
-    # Append copies of the PDF to make an A4 landscape page
-    convert -density 1200 $pdf_file $pdf_file $pdf_file $pdf_file $pdf_file +append $a4_file
+    # All done for now
+    pdf_a4s[$index]=$pdf_a4
 done
 
-# Rotate and merge PDFs into a single document
-pdftk R=${a4_files[0]} V=${a4_files[1]} cat R1W V1E output bookmark.pdf
+pdftk R=${pdf_a4s[0]} V=${pdf_a4s[1]} cat R1W V1E output bookmark.pdf \
+    || error 'Could not rotate and merge pages into bookmark' $?
