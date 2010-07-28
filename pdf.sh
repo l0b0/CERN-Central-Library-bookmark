@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 for name in recto verso
 do
     # Convert SVG to PDF
@@ -13,7 +13,7 @@ do
 
     # Nup all pages into one
     pdf_a4=${name}-a4.pdf
-    pdfnup $pdf_multipage --nup 5x1 --paper a4paper --orient landscape --outfile $pdf_a4
+    pdfnup $pdf_multipage --nup 5x1 --paper a4paper --orient landscape --outfile $pdf_a4 > /dev/null
     rm $pdf_multipage
 done
 
