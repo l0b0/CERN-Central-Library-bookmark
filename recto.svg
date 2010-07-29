@@ -8202,26 +8202,7 @@
      inkscape:label="Body text"
      style="display:inline"
      sodipodi:insensitive="true">
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2995"
-       style="font-size:40px;font-family:Verdana"><flowRegion
-         id="flowRegion2997"><rect
-           id="rect2999"
-           width="193"
-           height="180"
-           x="11"
-           y="47.094482"/></flowRegion></flowRoot>    <flowRoot
-       style="font-size:40px;font-family:Verdana"
-       xml:space="preserve"
-       id="flowRoot2995-9"
-       transform="translate(-0.87800634,0)"><flowRegion
-         id="flowRegion2997-9"><rect
-           id="rect2999-3"
-           y="47.094482"
-           x="11"
-           height="180"
-           width="193"/></flowRegion></flowRoot>    <g
+     <g
        id="g7276"
        transform="translate(1.190622,10.481056)">
       <g
