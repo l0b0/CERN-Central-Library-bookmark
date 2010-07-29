@@ -28,7 +28,7 @@
          id="path87699"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"/>
     </marker>
   </defs>
   <sodipodi:namedview
@@ -8104,8 +8104,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Roads"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:4;marker-end:none;display:inline"
        d="m 33.734833,554.19806 -34.8104999,7.41808"
@@ -8208,7 +8207,7 @@
      inkscape:label="Body text"
      style="display:inline"
      sodipodi:insensitive="true">
-     <g
+    <g
        id="g7276"
        transform="translate(1.190622,10.481056)">
       <g
@@ -8340,7 +8339,7 @@
          style="fill:none;stroke:#000000;stroke-width:0.924757;stroke-miterlimit:4;"/>
       <path
          transform="matrix(0.47648054,0,0,0.47648054,-18.013406,176.51506)"
-         d="m 10.871767,27.626486 a 1.281631,1.281631 0 1 1 -2.5632624,0 1.281631,1.281631 0 1 1 2.5632624,0 z"
+         d="m 10.871767,27.626486 c 0,0.707825 -0.573806,1.281631 -1.2816314,1.281631 -0.7078253,0 -1.281631,-0.573806 -1.281631,-1.281631 0,-0.707825 0.5738057,-1.281631 1.281631,-1.281631 0.7078254,0 1.2816314,0.573806 1.2816314,1.281631 z"
          sodipodi:ry="1.281631"
          sodipodi:rx="1.281631"
          sodipodi:cy="27.626486"
