@@ -76,22 +76,20 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-size:14px;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:14px;font-family:Verdana"
        x="8.812747"
        y="710.25452"
-       id="text2825"
-       sodipodi:linespacing="100%"><tspan
+       id="text2825"><tspan
          sodipodi:role="line"
          id="tspan2827"
          x="8.812747"
          y="710.25452">Feedback</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:9px;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:9px;font-family:Verdana"
        x="9.7229052"
        y="722.98102"
-       id="text2829"
-       sodipodi:linespacing="100%"><tspan
+       id="text2829"><tspan
          sodipodi:role="line"
          x="9.7229052"
          y="722.98102"
@@ -115,11 +113,10 @@
          id="tspan3417">and recycle the bookmark.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:9px;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:9px;font-family:Verdana"
        x="7.2352948"
        y="767.98224"
-       id="text3399"
-       sodipodi:linespacing="100%"><tspan
+       id="text3399"><tspan
          sodipodi:role="line"
          id="tspan3401"
          x="7.2352948"
@@ -150,7 +147,7 @@
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"/>
     <text
        xml:space="preserve"
-       style="font-size:13.99888897px;line-height:150%;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:13.99888897px;line-height:150%;font-family:Verdana"
        x="8.8120346"
        y="20.35862"
        id="text3962"
@@ -171,7 +168,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:14px;line-height:150%;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:14px;line-height:150%;font-family:Verdana"
        x="8.8127337"
        y="188.21172"
        id="text3966"

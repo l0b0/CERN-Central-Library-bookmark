@@ -7969,7 +7969,7 @@
          style="font-size:9px">R2/Entrance E</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:9px;display:inline;font-family:sans;-inkscape-font-specification:sans"
+       style="font-size:9px;display:inline;font-family:Verdana"
        x="149.90378"
        y="684.0191"
        id="text76310"><tspan
@@ -7977,7 +7977,7 @@
          id="tspan76312"
          x="149.90378"
          y="684.0191"
-         style="font-size:9px;font-family:sans;-inkscape-font-specification:sans">Entrance C</tspan></text>
+         style="font-size:9px;font-family:Verdana">Entrance C</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9px;display:inline;font-family:Verdana"
@@ -7989,11 +7989,11 @@
          id="tspan87691"
          x="24.511299"
          y="384.0058"
-         style="text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana">P1</tspan><tspan
+         style="text-align:center;text-anchor:middle;font-family:Verdana">P1</tspan><tspan
          sodipodi:role="line"
          x="24.511299"
          y="395.2558"
-         style="text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana"
+         style="text-align:center;text-anchor:middle;font-family:Verdana"
          id="tspan6987">ATLAS</tspan></text>
     <text
        xml:space="preserve"
@@ -8061,7 +8061,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:9px;line-height:150%;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:9px;line-height:150%;font-family:Verdana"
        id="text6912"
        sodipodi:linespacing="150%"
        transform="translate(22.341883,4.7211941)"><textPath
@@ -8070,7 +8070,7 @@
    id="tspan6914">Entrance B</tspan></textPath></text>
     <text
        xml:space="preserve"
-       style="font-size:9px;line-height:150%;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:9px;line-height:150%;font-family:Verdana"
        id="text6916"
        sodipodi:linespacing="150%"
        transform="translate(140.11069,-20.23465)"><textPath
@@ -8087,17 +8087,11 @@
          style="fill:none;stroke:#ff4900;stroke-miterlimit:0;marker-end:url(#Arrow1Lend)"/>
       <text
          transform="matrix(0.82739237,-0.56162432,0.56162432,0.82739237,0,0)"
-         sodipodi:linespacing="100%"
          id="text11679"
          y="307.54303"
          x="-130.10887"
-         style="font-size:10px;font-family:Verdana;-inkscape-font-specification:Verdana"
-         xml:space="preserve"><tspan
-           style="font-size:9px;font-family:Verdana;-inkscape-font-specification:Verdana"
-           y="307.54303"
-           x="-130.10887"
-           id="tspan11681"
-           sodipodi:role="line">N</tspan></text>
+         style="font-size:9px;font-family:Verdana"
+         xml:space="preserve">N</text>
     </g>
   </g>
   <g
@@ -8193,7 +8187,7 @@
          y="512.14264">Library</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6px;line-height:150%;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:6px;line-height:150%;font-family:Verdana"
        id="text6274"
        sodipodi:linespacing="150%"
        transform="translate(10.422985,-1.3383883)"><textPath
@@ -8217,7 +8211,7 @@
            y="62.773159"
            id="text5352-2"
            xml:space="preserve"
-           style="font-size:14px;font-family:Verdana;-inkscape-font-specification:Verdana"><tspan
+           style="font-size:14px;font-family:Verdana"><tspan
              x="7.6221118"
              y="62.773159"
              id="tspan5354-6">Due date:</tspan></text>
@@ -8225,7 +8219,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:10px;line-height:150%;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:10px;line-height:150%;font-family:Verdana"
        x="10.179921"
        y="114.48495"
        id="text6935"
@@ -8271,19 +8265,19 @@
          x="10.179921"
          y="249.48495"
          id="tspan5983">CERN Document Server: <tspan
-   style="font-size:10px;line-height:150%;fill:#0000cc;font-family:Verdana;-inkscape-font-specification:Verdana"
+   style="font-size:10px;line-height:150%;fill:#0000cc;font-family:Verdana"
    id="tspan6779">cds.cern.ch</tspan></tspan><tspan
          sodipodi:role="line"
          x="10.179921"
          y="264.48495"
          id="tspan5977">Loans: <tspan
-   style="font-size:10px;line-height:150%;fill:#0000cc;font-family:Verdana;-inkscape-font-specification:Verdana"
+   style="font-size:10px;line-height:150%;fill:#0000cc;font-family:Verdana"
    id="tspan6781">library.cern.ch/loans</tspan></tspan><tspan
          sodipodi:role="line"
          x="10.179921"
          y="279.48495"
          id="tspan5979">INSPIRE: <tspan
-   style="font-size:10px;line-height:150%;fill:#0000cc;font-family:Verdana;-inkscape-font-specification:Verdana"
+   style="font-size:10px;line-height:150%;fill:#0000cc;font-family:Verdana"
    id="tspan6783">inspire-hep.net</tspan></tspan></text>
     <g
        id="g5671"
@@ -8389,7 +8383,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:10px;line-height:125%;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:10px;line-height:125%;font-family:Verdana"
        x="9.6252337"
        y="269.43951"
        id="text7062"
@@ -8400,11 +8394,10 @@
          id="tspan5935"/></text>
     <text
        xml:space="preserve"
-       style="font-size:28px;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:28px;font-family:Verdana"
        x="8.6076555"
        y="35.129429"
-       id="text6112"
-       sodipodi:linespacing="100%"><tspan
+       id="text6112"><tspan
          sodipodi:role="line"
          id="tspan6114"
          x="8.6076555"
