@@ -79,11 +79,7 @@
        style="font-size:14px;font-family:Verdana"
        x="8.812747"
        y="710.25452"
-       id="text2825"><tspan
-         sodipodi:role="line"
-         id="tspan2827"
-         x="8.812747"
-         y="710.25452">Feedback</tspan></text>
+       id="text2825">Feedback</text>
     <text
        xml:space="preserve"
        style="font-size:9px;font-family:Verdana"
@@ -111,16 +107,6 @@
          x="9.7229052"
          y="758.98102"
          id="tspan3417">and recycle the bookmark.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:9px;font-family:Verdana"
-       x="7.2352948"
-       y="767.98224"
-       id="text3399"><tspan
-         sodipodi:role="line"
-         id="tspan3401"
-         x="7.2352948"
-         y="767.98224"/></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -147,16 +133,10 @@
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"/>
     <text
        xml:space="preserve"
-       style="font-size:13.99888897px;line-height:150%;font-family:Verdana"
+       style="font-size:14px;font-family:Verdana"
        x="8.8120346"
        y="20.35862"
-       id="text3962"
-       sodipodi:linespacing="150%"
-       transform="scale(1.0000793,0.99992066)"><tspan
-         sodipodi:role="line"
-         id="tspan3964"
-         x="8.8120346"
-         y="20.35862">Entrance</tspan></text>
+       id="text3962">Entrance</text>
     <g
        id="g3918"
        transform="matrix(1.5743113,0,0,1.5743113,-99.944705,-77.436402)">
@@ -171,28 +151,18 @@
        style="font-size:14px;line-height:150%;font-family:Verdana"
        x="8.8127337"
        y="188.21172"
-       id="text3966"
-       sodipodi:linespacing="150%"><tspan
-         sodipodi:role="line"
-         id="tspan3968"
-         x="8.8127337"
-         y="188.21172">Downstairs</tspan></text>
+       id="text3966">Downstairs</text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="License"
-     transform="translate(0,6.6406251e-6)"
      sodipodi:insensitive="true">
     <g
-       style="enable-background:new"
        id="layer1-5"
        inkscape:label="Layer 1"
-       transform="matrix(0.23622047,0,0,0.23622048,175.03937,727.08661)">
+       transform="matrix(0.23622047,0,0,0.23622047,175.03937,727.0866)">
       <g
-         inkscape:export-ydpi="300.23013"
-         inkscape:export-xdpi="300.23013"
-         inkscape:export-filename="/mnt/hgfs/Bov/Documents/Work/2007/cc/identity/srr buttons/big/by.png"
          id="g260"
          transform="matrix(0.9937728,0,0,0.9936696,-177.69267,6.25128e-7)">
         <path
@@ -223,9 +193,9 @@
              d="m 186.90065,-141.46002 c 0.006,8.68079 -7.02786,15.7215 -15.70808,15.72711 -8.68022,0.006 -15.72206,-7.02734 -15.7271,-15.70807 0,-0.006 0,-0.0123 0,-0.019 -0.005,-8.68079 7.02786,-15.7215 15.70808,-15.72656 8.68135,-0.006 15.72206,7.02734 15.7271,15.70813 0,0.006 0,0.0123 0,0.0184 z"
              rx="22.939548"
              type="arc"
-             cy="264.3577"
              ry="22.939548"
              cx="296.35416"
+             cy="264.3577"
              id="path5906_1_"/>
           <g
              transform="translate(-289.6157,99.0653)"
@@ -239,10 +209,6 @@
            id="g275">
           <circle
              style="fill:#ffffff"
-             sodipodi:ry="10.80664"
-             sodipodi:rx="10.80664"
-             sodipodi:cy="15.31348"
-             sodipodi:cx="255.55124"
              id="circle277"
              r="10.80664"
              cy="15.31348"
@@ -254,10 +220,6 @@
                id="path281"
                d="m 258.67819,12.18701 c 0,-0.4165 -0.33789,-0.75391 -0.75293,-0.75391 l -4.77344,0 c -0.41504,0 -0.75293,0.3374 -0.75293,0.75391 l 0,4.77295 1.33105,0 0,5.65186 3.61719,0 0,-5.65186 1.33105,0 0,-4.77295 10e-6,0 z"/>
             <circle
-               sodipodi:ry="1.63281"
-               sodipodi:rx="1.63281"
-               sodipodi:cy="9.1723604"
-               sodipodi:cx="255.53854"
                id="circle283"
                r="1.63281"
                cy="9.1723604"
