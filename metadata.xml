@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <cc:Work about="http://l0b0.wordpress.com/2010/07/27/library-bookmark-redesign/">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:creator>
+            <cc:Agent>
+                <dc:title>Victor Engmark</dc:title>
+            </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+            <cc:Agent>
+                <dc:title>CERN</dc:title>
+            </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+            <cc:Agent>
+                <dc:title>CERN</dc:title>
+            </cc:Agent>
+        </dc:publisher>
+        <dc:language>English</dc:language>
+        <cc:license resource="http://creativecommons.org/licenses/by/3.0/"/>
+    </cc:Work>
+    <cc:License xlink:href="cc-by-3.0.xml"/>
+</RDF>
