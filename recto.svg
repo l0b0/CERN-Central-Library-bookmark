@@ -8110,7 +8110,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Roads"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;marker-end:none;display:inline"
        d="m 33.734833,554.19806 -34.8104999,7.41808"
