@@ -18,17 +18,17 @@
   <defs
      id="defs2826">
     <marker
-       inkscape:stockid="Arrow2Mend"
+       inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0.0"
        refX="0.0"
-       id="Arrow2Mend"
+       id="Arrow1Mend"
        style="overflow:visible;">
       <path
-         id="path8735"
-         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.6) rotate(180) translate(0,0)"/>
+         id="path8717"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)"/>
     </marker>
     <marker
        inkscape:stockid="Arrow1Lend"
@@ -8154,12 +8154,12 @@
        d="m 185.61552,495.36471 16.84556,74.0103"
        id="path88335"/>
     <path
-       style="fill:none;stroke:#000000;marker-end:url(#Arrow2Mend);display:inline"
+       style="fill:none;stroke:#000000;marker-end:url(#Arrow1Mend);display:inline"
        d="m 119.12604,682.03354 c 0,0 5.69199,17.53961 2.84683,25.66231 -2.89455,8.26373 -10.55419,15.03523 -18.5542,18.59436 -11.989446,5.33399 -12.112846,4.09239 -37.304189,5.09435 l -64.0538213,2.70343"
        id="path88333"
        sodipodi:nodetypes="csscc"/>
     <path
-       style="fill:none;stroke:#000000;marker-end:url(#Arrow1Lend);display:inline"
+       style="fill:none;stroke:#000000;marker-end:url(#Arrow1Mend);display:inline"
        d="m 196.72212,579.06372 -64.32831,52.87291 -10.68998,9.52539 c -2.81565,2.50891 -5.11877,14.97877 -5.4099,22.77684 -0.23458,6.28343 2.97856,18.62678 2.97856,18.62678 l 32.88414,-8.33883"
        id="path88331"/>
     <path
