@@ -1,27 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210.47244"
    height="744.09448"
-   id="CCLb-recto"
-   version="1.1"
-   style="enable-background:new">
-  <title
-     id="title5455">CERN Central Library bookmark recto</title>
-  <defs
-     id="defs2826">
+   version="1.1">
+  <title>CERN Central Library bookmark recto</title>
+  <defs>
     <marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow1Mend"
        style="overflow:visible;">
       <path
@@ -44,25 +36,6 @@
          transform="matrix(-0.8,0,0,-0.8,-10,0)"/>
     </marker>
   </defs>
-  <sodipodi:namedview
-     inkscape:document-units="mm"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     id="namedview2828"
-     showgrid="false"
-     showguides="false"
-     units="mm"
-     gridtolerance="5"
-     inkscape:snap-object-midpoints="false"
-     inkscape:guide-bbox="true"
-     inkscape:snap-bbox="false"
-     showborder="true"
-     inkscape:showpageshadow="false"
-     borderlayer="false"
-     inkscape:snap-midpoints="false"/>
   <metadata xlink:href="metadata.xml"/>
   <g
      inkscape:groupmode="layer"
