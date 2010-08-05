@@ -2,38 +2,28 @@
 <svg
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="59.4mm"
    height="210mm"
    version="1.1">
   <title>CERN Central Library bookmark verso</title>
   <metadata xlink:href="metadata.xml"/>
   <image xlink:href="CERN-logo.svg" x="130" y="320" height="71" width="71"/>
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="map">
-    <g transform="translate(-155) scale(0.3)">
-      <image xlink:href="CERN-library-1.svg" y="-170"/>
-      <!-- Align horizontally -->
-      <image xlink:href="CERN-library-0.svg" x="-31" y="350"/>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-family:Verdana"
-       x="8.8120346"
-       y="20.35862"
-       id="text3962">Entrance</text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;line-height:150%;font-family:Verdana"
-       x="8.8127337"
-       y="188.21172"
-       id="text3966">Downstairs</text>
+  <g id="maps" transform="translate(-155) scale(0.3)">
+    <image xlink:href="CERN-library-1.svg" y="-170"/>
+    <!-- Align horizontally -->
+    <image xlink:href="CERN-library-0.svg" x="-31" y="350"/>
   </g>
   <!-- Specify margins -->
-  <svg x="2mm" y="2mm" width="55.4mm" height="206mm">
+  <svg id="margin" x="2mm" y="2mm" width="55.4mm" height="206mm">
+    <text
+       style="font-size:14px;font-family:Verdana"
+       y="0">Entrance</text>
+    <text
+       style="font-size:14px;font-family:Verdana"
+       y="170">Downstairs</text>
+
     <!-- 25% margin around CERN logo -->
-    <text y="410" style="font-size:9px;font-family:Verdana">
+    <text id="feedback" y="410" style="font-size:9px;font-family:Verdana">
       <tspan x="0" style="font-size:14px">Feedback</tspan>
       <tspan x="0" dy="13.5">Help us and the environment when</tspan>
       <tspan x="0" dy="13.5">returning your book: share your thoughts</tspan>
@@ -43,7 +33,7 @@
     </text>
 
     <!-- Full-size canvas below and to the right -->
-    <svg x="55.4mm" y="206mm" width="100%" height="100%">
+    <svg id="bottom-right" x="55.4mm" y="206mm" width="100%" height="100%">
       <!-- Rotate back into page -->
       <g width="100%" height="100%" transform="rotate(180)">
         <!-- Rotate around center -->
