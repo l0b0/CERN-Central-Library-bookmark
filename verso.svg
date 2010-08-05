@@ -2,54 +2,12 @@
 <svg
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="59.4mm"
    height="210mm"
    version="1.1">
   <title>CERN Central Library bookmark verso</title>
   <metadata xlink:href="metadata.xml"/>
-  <g
-     inkscape:label="Feedback"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-308.26769)"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-family:Verdana"
-       x="8.812747"
-       y="710.25452"
-       id="text2825">Feedback</text>
-    <text
-       xml:space="preserve"
-       style="font-size:9px;font-family:Verdana"
-       x="9.7229052"
-       y="722.98102"
-       id="text2829"><tspan
-         sodipodi:role="line"
-         x="9.7229052"
-         y="722.98102"
-         id="tspan3373">Help us and the environment when</tspan><tspan
-         sodipodi:role="line"
-         x="9.7229052"
-         y="731.98102"
-         id="tspan3381">returning your book: share your thoughts</tspan><tspan
-         id="tspan3287"
-         sodipodi:role="line"
-         x="9.7229052"
-         y="740.98102">in the space below. We'll follow up at</tspan><tspan
-         sodipodi:role="line"
-         x="9.7229052"
-         y="749.98102"
-         id="tspan3415"
-         style="fill:#0000cc;">library.cern.ch/feedback</tspan><tspan
-         sodipodi:role="line"
-         x="9.7229052"
-         y="758.98102"
-         id="tspan3417">and recycle the bookmark.</tspan></text>
-  </g>
   <image xlink:href="CERN-logo.svg" x="130" y="320" height="71" width="71"/>
   <g
      inkscape:groupmode="layer"
@@ -74,6 +32,16 @@
   </g>
   <!-- Specify margins -->
   <svg x="2mm" y="2mm" width="55.4mm" height="206mm">
+    <!-- 25% margin around CERN logo -->
+    <text y="410" style="font-size:9px;font-family:Verdana">
+      <tspan x="0" style="font-size:14px">Feedback</tspan>
+      <tspan x="0" dy="13.5">Help us and the environment when</tspan>
+      <tspan x="0" dy="13.5">returning your book: share your thoughts</tspan>
+      <tspan x="0" dy="13.5">in the space below. We'll follow up at</tspan>
+      <tspan x="0" dy="13.5" style="fill:#0000cc;">library.cern.ch/feedback</tspan>
+      <tspan x="0" dy="13.5">and recycle the bookmark.</tspan>
+    </text>
+
     <!-- Full-size canvas below and to the right -->
     <svg x="55.4mm" y="206mm" width="100%" height="100%">
       <!-- Rotate back into page -->
