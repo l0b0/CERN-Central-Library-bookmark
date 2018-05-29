@@ -1,4 +1,0 @@
-Git repository: http://github.com/l0b0/CERN-Central-Library-bookmark
-Updates: http://l0b0.wordpress.com/2010/07/27/library-bookmark-redesign/
-
-To convert to a nice PDF, just run ./pdf.sh. This script needs Inkscape, pdfnup and pdftk. To install these on Ubuntu 10.04, run `sudo apt-get install inkscape pdfjam pdftk`.
